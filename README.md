@@ -1,2 +1,3 @@
 # react-tic-tac-toe
-The tic-tac-toe application based on React.js
+Title: the 'tic-tac-toe game' application
+Tech stack: React.js
